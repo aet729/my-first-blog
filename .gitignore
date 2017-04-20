@@ -1,0 +1,6 @@
+myvenv
+*.pyc
+*~
+__pycache__
+dq.sqlite3
+static
